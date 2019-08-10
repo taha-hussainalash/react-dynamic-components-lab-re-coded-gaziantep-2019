@@ -13,7 +13,7 @@ export default class ColorBox extends Component {
        <ColorBox opacity = {newValue} />
      
        </div>
-       
+    )
     }else {
       return null;
     }
